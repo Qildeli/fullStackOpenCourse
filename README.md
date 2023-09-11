@@ -1,6 +1,6 @@
 # [Full Stack Open 2022](https://fullstackopen.com/en/)
 
-This repository contains exercise solutions to the 2020 edition of the Full Stack Open course from the University of Helsinki.
+This repository contains exercise solutions to the 2022 edition of the Full Stack Open course from the University of Helsinki.
 
 View certificate.
 
