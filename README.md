@@ -2,7 +2,7 @@
 
 This repository contains exercise solutions to the 2023 edition of the Full Stack Open course from the University of Helsinki.
 
-View certificate.
+View certificate
 
 ## Part 1 - [Introduction to React](https://fullstackopen.com/en/part1)
 A series of React UIs demonstrating functions such as state management, event handling and debugging in a React ecosystem.
